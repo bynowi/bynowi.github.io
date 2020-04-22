@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.tale.run/"/>
+  <link href="https://blog.tale.run/"/>
   <updated>2020-04-21T09:47:12.508Z</updated>
-  <id>http://blog.tale.run/</id>
+  <id>https://blog.tale.run/</id>
   
   <author>
     <name>风从海上来</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.tale.run/2020/04/21/hello-world/"/>
-    <id>http://blog.tale.run/2020/04/21/hello-world/</id>
+    <link href="https://blog.tale.run/2020/04/21/hello-world/"/>
+    <id>https://blog.tale.run/2020/04/21/hello-world/</id>
     <published>2020-04-21T09:47:12.508Z</published>
     <updated>2020-04-21T09:47:12.508Z</updated>
     
