@@ -1025,7 +1025,6 @@ img {
   content: "—";
   padding: 0 0.5rem;
 }
-@charset "utf-8";
 ::-webkit-scrollbar {
   width: 8px;
 }
